@@ -1,5 +1,3 @@
-name: Cofre Digital - Deploy Automatizado
-
 on:
   push:
     branches: [ main, develop ]
